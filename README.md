@@ -1,6 +1,10 @@
 # Rotation Rings
 
-[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bX4RzunsxC)
+[![Join Discord](https://swml.kivts.net/brand/badges/dark/discord.svg)](https://discord.gg/bX4RzunsxC)
+[![Requires SWML](https://swml.kivts.net/brand/badges/dark/requires-swml.svg)](https://github.com/kiVts/swml/releases/latest)
+[![SWML website](https://swml.kivts.net/brand/badges/dark/website.svg)](https://swml.kivts.net/)
+[![GitHub releases](https://swml.kivts.net/brand/badges/dark/github.svg)](https://github.com/kiVts/editor_rotation_rings/releases)
+[![Support on Buy Me a Coffee](https://swml.kivts.net/brand/badges/dark/coffee.svg)](https://buymeacoffee.com/kivts)
 
 Changes how rotation is done, instead of having to mash random buttons, you can hold the keybind that shows the rotation labels which will use your oriented movement keys. Screenshot when you hold a keybind: <img width="902" height="732" alt="image" src="https://github.com/user-attachments/assets/6c741c32-d377-4a05-b1be-32ca7111c2d8" />
 
